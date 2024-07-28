@@ -1,5 +1,5 @@
 # C-Sharp
-I am learning C# from tutorials
+Learning C# from tutorials
 
 ## Mini Projects
 
